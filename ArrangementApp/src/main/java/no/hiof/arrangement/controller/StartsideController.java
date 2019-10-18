@@ -30,7 +30,7 @@ public class StartsideController {
         arrangement.setOnAction(new EventHandler<ActionEvent>() {
             @Override
             public void handle(ActionEvent event) {
-                arrangement.setText("kaffe");
+                arrangement.setText("te");
             }
         });
     }
