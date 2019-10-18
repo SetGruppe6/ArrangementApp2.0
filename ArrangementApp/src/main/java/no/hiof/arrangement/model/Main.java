@@ -1,4 +1,4 @@
-package no.hiof.arrangement;
+package no.hiof.arrangement.model;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
